@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(41, 41, 41);
+}
+
+header{
+    background-color: white;
+    display: flex;
+    margin: -8px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ticket{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#jmeno{
+    display: flex;
+    justify-content: center;
+}
+
+#prijmeni{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+#tlacitko{
+    display: flex;
+    width: 150px;
+    margin-top: 10px
+}
+
+.vse{
+    border: 10px solid black;
+    background-color: white;
+    margin-top: 58px;
+    padding: 20px;
+}
+
+#problem{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+#seznam{
+    margin-bottom: 10px;
+    padding: 2px;
+    width: 150px;
+}
+
+footer{
+    background-color: black;
+}
+
+#logo{
+    display: flex;
+    height: 100px;
+    width: 79px;
+}
